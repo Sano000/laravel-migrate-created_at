@@ -1,0 +1,21 @@
+{
+  "name": "sano000/laravel-migrate-created_at",
+  "description": "Adds the created_at field to migrates table.",
+  "keywords": ["laravel", "migrate"],
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Alexander Cerleniuk",
+      "email": "sano1982@gmail.com"
+    }
+  ],
+  "require": {
+    "php": ">=5.4"
+  },
+  "autoload": {
+    "psr-0": {
+      "CustomMigrateRepository": "src"
+    }
+  },
+  "minimum-stability": "dev"
+}
