@@ -14,7 +14,7 @@
   },
   "autoload": {
     "psr-0": {
-      "CustomMigrateRepository": "src"
+      "": "src"
     }
   },
   "minimum-stability": "dev"
